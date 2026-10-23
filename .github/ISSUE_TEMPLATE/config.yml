@@ -1,0 +1,7 @@
+# Issues moved to our own tracker on 2026-10-22. This turns off the blank issue form,
+# so the New issue button shows only the link below.
+blank_issues_enabled: false
+contact_links:
+  - name: Report a bug or ask for a feature
+    url: https://primentra.com/tracker
+    about: Our issue tracker moved to primentra.com. Your name, email address and files stay private there.
